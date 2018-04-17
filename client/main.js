@@ -21,4 +21,4 @@ Template.hello.events({
   },
 });
 
-console.log('mayday mayday')
+console.log('mayday mayday hook')
