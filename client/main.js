@@ -21,4 +21,4 @@ Template.hello.events({
   },
 });
 
-console.log(1)
+console.log(1222)
