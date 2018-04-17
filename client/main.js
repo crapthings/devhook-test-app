@@ -21,4 +21,4 @@ Template.hello.events({
   },
 });
 
-console.log('okay wow dude')
+console.log('okay wow dude !!!')
