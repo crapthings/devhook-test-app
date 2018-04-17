@@ -21,7 +21,7 @@ Template.hello.events({
   },
 });
 
-console.log('okay wow dude !!!', 'new')
+console.log('okay wow dude !!!', 'new', 111)
 
 Meteor.startup(function () {
   Tracker.autorun(() => {
