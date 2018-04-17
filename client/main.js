@@ -22,3 +22,4 @@ Template.hello.events({
 });
 
 console.log('mayday mayday hook build build !!!')
+console.log('111')
