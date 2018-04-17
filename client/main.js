@@ -22,3 +22,9 @@ Template.hello.events({
 });
 
 console.log('okay wow dude !!!')
+
+Meteor.startup(function () {
+  Tracker.autorun(() => {
+    console.log(Users.find().fetch())
+  })
+})
