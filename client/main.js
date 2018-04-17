@@ -21,4 +21,4 @@ Template.hello.events({
   },
 });
 
-console.log('all right new master!!! yes')
+console.log('mayday mayday')
