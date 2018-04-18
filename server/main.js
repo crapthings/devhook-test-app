@@ -6,3 +6,4 @@ Meteor.startup(() => {
 
 console.log(311288811123232)
 console.log('hahaha')
+console.log('ohyeah')
