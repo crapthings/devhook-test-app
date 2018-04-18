@@ -4,4 +4,4 @@ Meteor.startup(() => {
   // code to run on server at startup
 });
 
-console.log(1)
+console.log(3112)
