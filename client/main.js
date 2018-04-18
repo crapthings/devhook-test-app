@@ -24,4 +24,4 @@ Template.hello.events({
 console.log('mayday mayday hook build build !!!')
 console.log('111')
 console.log('降龙伏虎 虎鹤双形 哈哈嘿吼', '测试webhook!!!')
-console.log('try retransmit !!!')
+console.log('try retransmit !!!!!!')
